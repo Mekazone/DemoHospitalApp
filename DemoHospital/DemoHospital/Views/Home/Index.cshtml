@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Patient>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h2 class="m-5 text-center">List of Patients</h2>
+    <div class="row mb-4">
+        <div class="col-md-4 p-2">
+            <form method="get" asp-controller="Home" asp-action="Index">
+            <label>Find patient</label>
+            <input class="form" name="searchValue" placeholder="Enter hospital Id" />
+            <button class="btn btn-primary" type="submit">Search</button>                     
+            </form>
+        </div>
+
+        <div class="col-md-4 p-2">
+            <form method="get" asp-controller="Home" asp-action="Index">
+            <label>Sort</label>
+            <select name="sortValue">
+                <option value="">Select sort option</option>
+                <option value="hospitalIdAsc">Hospital Id - Ascending order</option>
+                <option value="hospitalIdDesc">Hospital Id - Descending order</option>
+                <option value="admitDateAsc">Admit Date - Ascending order</option>
+                <option value="admitDateDesc">Admit Date - Descending order</option>
+                <option value="under16">Patients Under 16</option>
+            </select>
+            <button class="btn btn-primary" type="submit">Sort</button>
+            </form>
+        </div>
+
+        <div class="col-md-4 p-2">
+            <a asp-action="Index" class="btn btn-success float-end">Display all records</a>
+        </div>
+    </div>
+
+    <table class="table table-bordered table-striped table-responsive">
+        <thead>
+            <tr>
+                <th>Patient Id</th>
+                <th>Date of Birth</th>
+                <th>Sex</th>
+                <th>Hospital Id</th>
+                <th>Postcode</th>
+                <th>Admit Date</th>
+                <th>Discharge Date</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            
+                @foreach(var patients in Model)
+                {
+                    <tr>
+                        <td>@patients.PatientId</td>
+
+                        <!-- format DateTime to long date -->
+                        <td>@patients.DateOfBirth.ToLongDateString()</td>
+                        <td>@patients.Sex</td>
+                        <td>@patients.HospitalId</td>
+                        <td>@patients.Postcode</td>
+
+                        <!-- format DateTime to short date if date is not null -->
+                        @if (patients.AdmitDate.HasValue)
+                         {
+                            <td>@patients.AdmitDate.Value.ToLongDateString()</td>
+                         }
+
+                        <!-- format DateTime to short date if date is not null -->
+                        @if (patients.AdmitDate.HasValue)
+                        {
+                            <td>@patients.AdmitDate.Value.ToLongDateString()</td>
+                        }
+                    </tr>
+                }
+        </tbody>
+    </table>
+</div>

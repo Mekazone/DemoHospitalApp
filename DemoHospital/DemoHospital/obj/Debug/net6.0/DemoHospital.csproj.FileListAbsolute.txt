@@ -1,0 +1,105 @@
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\appsettings.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.staticwebassets.runtime.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.exe
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.deps.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.runtimeconfig.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.dll
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.pdb
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.csproj.AssemblyReference.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.AssemblyInfoInputs.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.AssemblyInfo.cs
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.csproj.CoreCompileInputs.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.RazorAssemblyInfo.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.RazorAssemblyInfo.cs
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\bundle\DemoHospital.styles.css
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\projectbundle\DemoHospital.bundle.scp.css
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.dll
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\refint\DemoHospital.dll
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.pdb
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.genruntimeconfig.cache
+C:\Users\crookess\source\repos\DemoHospital\DemoHospital\obj\Debug\net6.0\ref\DemoHospital.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\appsettings.Development.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\appsettings.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.staticwebassets.runtime.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.exe
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.deps.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.runtimeconfig.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\DemoHospital.pdb
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Azure.Core.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Azure.Identity.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Memory.Data.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.csproj.AssemblyReference.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.AssemblyInfoInputs.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.AssemblyInfo.cs
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.csproj.CoreCompileInputs.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.RazorAssemblyInfo.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.RazorAssemblyInfo.cs
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets\msbuild.DemoHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoHospital.props
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoHospital.props
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoHospital.props
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets.pack.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets.build.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\staticwebassets.development.json
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\bundle\DemoHospital.styles.css
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\scopedcss\projectbundle\DemoHospital.bundle.scp.css
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.csproj.CopyComplete
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\refint\DemoHospital.dll
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.pdb
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\DemoHospital.genruntimeconfig.cache
+C:\hanj\apps 4 transfer 2 new computer\hcpc\Newcastle\Interview test\DemoHospital\DemoHospital\obj\Debug\net6.0\ref\DemoHospital.dll
